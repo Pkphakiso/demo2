@@ -1,0 +1,4 @@
+#folder to ignore
+nocommit-file
+#file to ignore
+*.txt
