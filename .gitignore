@@ -1,4 +1,6 @@
 #folder to ignore
 nocommit-file
+fin-out
+
 #file to ignore
 *.txt
